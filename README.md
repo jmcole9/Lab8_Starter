@@ -1,4 +1,4 @@
-# Lab 8 - Starter
+# Lab 8
 # James Cole
 
 1. Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
