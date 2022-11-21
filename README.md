@@ -18,3 +18,5 @@ No, this test is too high-level for a unit test as it involves an entire feature
 4. Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
 
 No, For the same reason as the last question this is a test that concerns the larger application and the only way to really see if it would work is to use an end to end test to simulate a page and see if the feature is working there.
+
+screenshot is testspassed.png
